@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TodoApp",
-    "slug": "TodoApp",
+    "name": "my-todo-app",
+    "slug": "my-todo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,16 +21,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.darshan212001.TodoApp"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "ad11c3a7-f1f1-4f1f-ad16-4d8aecac1c19"
-      }
     }
   }
 }
